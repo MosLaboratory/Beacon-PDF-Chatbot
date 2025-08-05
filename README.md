@@ -8,6 +8,12 @@ A sophisticated conversational AI chatbot that can intelligently interact with l
 ![Weaviate](https://img.shields.io/badge/Weaviate-1.23.7-purple.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-orange.svg)
 
+## 🎬 Demo Video
+
+https://github.com/MosLaboratory/Beacon-PDF-Chatbot/assets/demo.mp4
+
+*Watch the PDF Chatbot in action - Upload a PDF and start chatting with AI-powered responses!*
+
 ## 🚀 Features
 
 ### ✨ Core Capabilities
@@ -324,14 +330,6 @@ curl -X POST "http://localhost:8086/chat" \
 - **JavaScript**: Use ESLint configuration
 - **Documentation**: Update README for new features
 - **Testing**: Add tests for new functionality
-
-
-##  Support
-
-### Getting Help
-- **Issues**: Create an issue on GitHub
-- **Documentation**: Check the API docs at `/docs`
-- **Community**: Join our Discord server
 
 ### Common Issues
 - **Weaviate Connection**: Ensure Docker is running
