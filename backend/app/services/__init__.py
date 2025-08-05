@@ -1,0 +1,1 @@
+# Service modules for PDF processing and chat functionality 
